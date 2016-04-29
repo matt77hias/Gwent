@@ -45,7 +45,7 @@ Notes
 * 5x _Blue Stripes Commando_ can be contained in one's deck according to the digital game, unfortunately only 3 different textures are available.
 * Special abilities and strengths are based on the digital game not on the limited edition card set produced by [_CD Projekt RED_](http://en.cdprojektred.com/).
 * _Bovine Defense Force_ can only be triggered in the next round via _Cow_ (see [video](https://www.youtube.com/watch?v=UKKlnXvIDxs)).
-* 
+
 Thanks
 --------------------------------------------------------------------------
 [Benny Matthiesen & co](https://ninjalooter.de/45269/selber-basteln-gwint-kartenset-gwent-playing-cards-deutsch-english/) for text, formatting and providing the cards.
