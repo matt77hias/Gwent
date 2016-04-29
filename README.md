@@ -30,6 +30,13 @@ Repository Features
 * A library of Gwent cards
 * Some utilities for manipulating Gwent cards
 
+Notes
+--------------------------------------------------------------------------
+* 4x _Commander's Horn_ can be contained in one's deck of which one is implicit via for example _Eredin King of the Wild Hunt_
+* 5x _Blue Stripes Commando_ can be contained in one's deck according to the game, unfortunately only 3 different textures are available.
+* Special abilities and strengths are based on the game not on the limited edition card set produced by _CD Projekt RED_.
+* _Bovine Defense Force_ can only be triggered in the next round via _Cow_ (see [video](https://www.youtube.com/watch?v=UKKlnXvIDxs)).
+
 Thanks
 --------------------------------------------------------------------------
 [Benny Matthiesen & co](https://ninjalooter.de/45269/selber-basteln-gwint-kartenset-gwent-playing-cards-deutsch-english/) for text, formatting and providing the cards.
