@@ -3,7 +3,7 @@ Gwent
 
 Introduction
 --------------------------------------------------------------------------
-Have you ever felt like playing a round of Gwent from _The Witcher 3: Wild Hunt_? Not on the computer against the same old AI opponents, but rather against human challengers? Then craft your very own Gwent card set (**for non-commercial, personal use only**). You can print the cards yourself or let them be printed for you (e.g. [PrinterStudio](http://www.printerstudio.com/personalized/bridge-size-custom-cards-blank-cards.html).
+Have you ever felt like playing a round of Gwent from _The Witcher 3: Wild Hunt_? Not on the computer against the same old AI opponents, but rather against human challengers? Then craft your very own Gwent card set (**for non-commercial, personal use only**). You can print the cards yourself or let them be printed for you (e.g. [PrinterStudio](http://www.printerstudio.com/personalized/bridge-size-custom-cards-blank-cards.html)).
 
 What is Gwent?
 --------------------------------------------------------------------------
