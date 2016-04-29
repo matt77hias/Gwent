@@ -5,7 +5,7 @@ Gwent
 
 Introduction
 --------------------------------------------------------------------------
-Have you ever felt like playing a round of Gwent from _The Witcher 3: Wild Hunt_? Not on the computer against the same old AI opponents, but rather against human challengers? Then craft your very own Gwent card set (**for non-commercial, personal use only**). You can print the cards yourself or let them be printed for you (e.g. [PrinterStudio](http://www.printerstudio.com/personalized/bridge-size-custom-cards-blank-cards.html)).
+Have you ever felt like playing a round of [Gwent](http://witcher.wikia.com/wiki/Gwent) from [_The Witcher 3: Wild Hunt_](http://thewitcher.com/en/witcher3)? Not on the computer against the same old AI opponents, but rather against human challengers? Then craft your very own Gwent card set (**for non-commercial, personal use only**). You can print the cards yourself or let them be printed for you (e.g. [PrinterStudio](http://www.printerstudio.com/personalized/bridge-size-custom-cards-blank-cards.html)).
 
 What is Gwent?
 --------------------------------------------------------------------------
@@ -37,8 +37,8 @@ Repository Features
 Notes
 --------------------------------------------------------------------------
 * 4x _Commander's Horn_ can be contained in one's deck of which one is implicit via for example _Eredin King of the Wild Hunt_
-* 5x _Blue Stripes Commando_ can be contained in one's deck according to the game, unfortunately only 3 different textures are available.
-* Special abilities and strengths are based on the game not on the limited edition card set produced by _CD Projekt RED_.
+* 5x _Blue Stripes Commando_ can be contained in one's deck according to the digital game, unfortunately only 3 different textures are available.
+* Special abilities and strengths are based on the digital game not on the limited edition card set produced by [_CD Projekt RED_](http://en.cdprojektred.com/).
 * _Bovine Defense Force_ can only be triggered in the next round via _Cow_ (see [video](https://www.youtube.com/watch?v=UKKlnXvIDxs)).
 
 Thanks
