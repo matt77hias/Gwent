@@ -34,13 +34,18 @@ Repository Features
 * A library of Gwent cards
 * Some utilities for manipulating Gwent cards
 
+Recommendations
+--------------------------------------------------------------------------
+* We recommend to use the same backside image for all cards. This way only two sets of _Neutral Unit_ cards are required instead of one for each fraction (or two for each fraction if you cannot choose between the original and alternative design).
+* We recommend to use the cards with color bleeding applied to the border if you let the cards be printed for you (e.g. [PrinterStudio](http://www.printerstudio.com/personalized/bridge-size-custom-cards-blank-cards.html)).
+
 Notes
 --------------------------------------------------------------------------
 * 4x _Commander's Horn_ can be contained in one's deck of which one is implicit via for example _Eredin King of the Wild Hunt_
 * 5x _Blue Stripes Commando_ can be contained in one's deck according to the digital game, unfortunately only 3 different textures are available.
 * Special abilities and strengths are based on the digital game not on the limited edition card set produced by [_CD Projekt RED_](http://en.cdprojektred.com/).
 * _Bovine Defense Force_ can only be triggered in the next round via _Cow_ (see [video](https://www.youtube.com/watch?v=UKKlnXvIDxs)).
-
+* 
 Thanks
 --------------------------------------------------------------------------
 [Benny Matthiesen & co](https://ninjalooter.de/45269/selber-basteln-gwint-kartenset-gwent-playing-cards-deutsch-english/) for text, formatting and providing the cards.
