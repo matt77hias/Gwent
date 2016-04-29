@@ -25,6 +25,8 @@ All rounds of a match must be played with the same starting hand. Mastering how 
 
 <img src="https://raw.githubusercontent.com/matt77hias/Gwent/master/res/Gwent/Rules/Gwent%20Rules.png" width="287"> <img src="https://raw.githubusercontent.com/matt77hias/Gwent/master/res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%201.png" width="287"> <img src="https://raw.githubusercontent.com/matt77hias/Gwent/master/res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%202.png" width="287">
 
+<p align="center"><img src="http://www.pcgamesn.com/sites/default/files/Gwent%20Board_1.jpg" ></p>
+
 [Example game](https://www.youtube.com/watch?v=5FZuQ3apfa0)
 
 Repository Features
