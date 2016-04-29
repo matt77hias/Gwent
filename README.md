@@ -30,4 +30,4 @@ Repository Features
 
 Thanks
 --------------------------------------------------------------------------
-[Benny Matthiesen & co](https://ninjalooter.de/45269/selber-basteln-gwint-kartenset-gwent-playing-cards-deutsch-english/) for formatting and providing the cards.
+[Benny Matthiesen & co](https://ninjalooter.de/45269/selber-basteln-gwint-kartenset-gwent-playing-cards-deutsch-english/) for text, formatting and providing the cards.
