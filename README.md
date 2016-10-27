@@ -7,6 +7,8 @@ Introduction
 --------------------------------------------------------------------------
 Have you ever felt like playing a round of [Gwent](http://witcher.wikia.com/wiki/Gwent) from [_The Witcher 3: Wild Hunt_](http://thewitcher.com/en/witcher3)? Not on the computer against the same old AI opponents, but rather against human challengers? Then craft your very own Gwent card set (**for non-commercial, personal use only**). You can print the cards yourself or let them be printed for you (e.g. [PrinterStudio](http://www.printerstudio.com/personalized/bridge-size-custom-cards-blank-cards.html)).
 
+**Note**: [_CD Projekt RED_](http://en.cdprojektred.com/) recently launched the [Gwent](https://www.playgwent.com/en/) open beta, which is a standalone game based on the Gwent mini game from [_The Witcher 3: Wild Hunt_](http://thewitcher.com/en/witcher3). The major game mechanics are kept the same, but the cards themselves differ and are balanced for PvP (as opposed to PvE). 
+
 What is Gwent?
 --------------------------------------------------------------------------
 In the perhaps most fantastic RPG currently available, [_The Witcher 3: Wild Hunt_](http://thewitcher.com/en/witcher3), there is again plenty of distraction next to the monster hunting and main storyline. Among other things, you can challenge the residents to play cards. You begin with a very weak starting deck and earn new, more powerful cards during the game.
