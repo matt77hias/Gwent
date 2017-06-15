@@ -17,6 +17,7 @@ Gwent is a card game for two players (originally intended for multiple players).
 1. _Close Combat_;
 2. _Ranged Combat_;
 3. _Siege Combat_. 
+
 The sum of the played cards strength decides which player wins the round itself. _Bonus_ (including _weater_) cards can also change the strength of the played cards decisively.
 
 All rounds of a match must be played with the same starting hand. Mastering how to use your available cards sparingly is the key to victory.
