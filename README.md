@@ -8,7 +8,7 @@ Have you ever felt like playing a round of [Gwent](http://witcher.wikia.com/wiki
 **Note**: [_CD Projekt RED_](http://en.cdprojektred.com/) recently launched the [Gwent](https://www.playgwent.com/en/) open beta, which is a standalone game based on the Gwent mini game from [_The Witcher 3: Wild Hunt_](http://thewitcher.com/en/witcher3). The major game mechanics are kept the same, but the cards themselves differ and are balanced for PvP (as opposed to PvE). 
 
 ## What is Gwent?
-In the perhaps most fantastic RPG currently available, [_The Witcher 3: Wild Hunt_](http://thewitcher.com/en/witcher3), there is again plenty of distraction next to the monster hunting and main storyline. Among other things, you can challenge the residents to play cards. You begin with a very weak starting deck and earn new, more powerful cards during the game.
+In the perhaps most fantastic RPG currently available, [_The Witcher 3: Wild Hunt_](http://thewitcher.com/en/witcher3), there is again plenty of distraction next to the monster hunting and the main storyline. Among other things, you can challenge the residents to play cards. You begin with a very weak starting deck and earn new, more powerful cards during the game.
 
 But why only compete against NPCs if you could also play with friends?
 
