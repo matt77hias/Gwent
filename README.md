@@ -1,6 +1,10 @@
 # Gwent
 
-<img src="https://raw.githubusercontent.com/matt77hias/Gwent/master/res/Gwent/Neutral%20Units/Geralt%20of%20Rivia%202.png" width="287"> <img src="https://github.com/matt77hias/Gwent/blob/master/res/Gwent/Monsters/Vampire%20Katakan.png" width="287"> <img src="https://github.com/matt77hias/Gwent/blob/master/res/Gwent/Neutrals/Impenetrable%20Fog%201.png" width="287">
+<p align="center">
+<img src="res/Gwent/Neutral%20Units/Geralt%20of%20Rivia%202.png" width="287">
+<img src="res/Gwent/Monsters/Vampire%20Katakan.png" width="287">
+<img src="res/Gwent/Neutrals/Impenetrable%20Fog%201.png" width="287">
+</p>
 
 ## Introduction
 Have you ever felt like playing a round of [Gwent](http://witcher.wikia.com/wiki/Gwent) from [_The Witcher 3: Wild Hunt_](http://thewitcher.com/en/witcher3)? Not on the computer against the same old AI opponents, but rather against human challengers? Then craft your very own Gwent card set (**for non-commercial, personal use only**). You can print the cards yourself or let them be printed for you (e.g. [PrinterStudio](http://www.printerstudio.com/personalized/bridge-size-custom-cards-blank-cards.html)).
@@ -22,7 +26,11 @@ The sum of the played cards strength decides which player wins the round itself.
 
 All rounds of a match must be played with the same starting hand. Mastering how to use your available cards sparingly is the key to victory.
 
-<img src="https://raw.githubusercontent.com/matt77hias/Gwent/master/res/Gwent/Rules/Gwent%20Rules.png" width="287"> <img src="https://raw.githubusercontent.com/matt77hias/Gwent/master/res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%201.png" width="287"> <img src="https://raw.githubusercontent.com/matt77hias/Gwent/master/res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%202.png" width="287">
+<p align="center">
+<img src="res/Gwent/Rules/Gwent%20Rules.png" width="287">
+<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%201.png" width="287">
+<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%202.png" width="287">
+</p>
 
 <p align="center"><img src="http://www.pcgamesn.com/sites/default/files/Gwent%20Board_1.jpg" ></p>
 
