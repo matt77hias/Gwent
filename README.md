@@ -37,8 +37,8 @@ All rounds of a match must be played with the same starting hand. Mastering how 
 [Example game](https://www.youtube.com/watch?v=5FZuQ3apfa0)
 
 ## Repository Features
-* A library of Gwent cards
-* Some utilities for manipulating Gwent cards
+* A library of Gwent cards (including raw textures);
+* Some utilities for manipulating Gwent cards.
 
 ## Recommendations
 * We recommend to use the same backside image for all cards. This way only two sets of _Neutral Unit_ cards are required instead of one for each fraction (or two for each fraction if you cannot choose between the original and alternative design).
