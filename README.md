@@ -1,9 +1,9 @@
 # Gwent
 
 <p align="center">
-<img src="res/Gwent/Neutral%20Units/Geralt%20of%20Rivia%202.png" width="285">
-<img src="res/Gwent/Monsters/Vampire%20Katakan.png" width="285">
-<img src="res/Gwent/Neutrals/Impenetrable%20Fog%201.png" width="285">
+<img src="res/Gwent/Neutral%20Units/Geralt%20of%20Rivia%202.png" width="284">
+<img src="res/Gwent/Monsters/Vampire%20Katakan.png" width="284">
+<img src="res/Gwent/Neutrals/Impenetrable%20Fog%201.png" width="284">
 </p>
 
 ## Introduction
@@ -27,9 +27,9 @@ The sum of the played cards strength decides which player wins the round itself.
 All rounds of a match must be played with the same starting hand. Mastering how to use your available cards sparingly is the key to victory.
 
 <p align="center">
-<img src="res/Gwent/Rules/Gwent%20Rules.png" width="285">
-<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%201.png" width="285">
-<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%202.png" width="285">
+<img src="res/Gwent/Rules/Gwent%20Rules.png" width="284">
+<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%201.png" width="284">
+<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%202.png" width="284">
 </p>
 
 <p align="center"><img src="http://www.pcgamesn.com/sites/default/files/Gwent%20Board_1.jpg" ></p>
