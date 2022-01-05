@@ -1,9 +1,9 @@
 # Gwent
 
 <p align="center">
-<img src="res/Gwent/Neutral%20Units/Geralt%20of%20Rivia%202.png" width="275">
-<img src="res/Gwent/Monsters/Vampire%20Katakan.png" width="275">
-<img src="res/Gwent/Neutrals/Impenetrable%20Fog%201.png" width="275">
+<img src="res/Gwent/Neutral%20Units/Geralt%20of%20Rivia%202.png" width="270">
+<img src="res/Gwent/Monsters/Vampire%20Katakan.png" width="270">
+<img src="res/Gwent/Neutrals/Impenetrable%20Fog%201.png" width="270">
 </p>
 
 ## Introduction
