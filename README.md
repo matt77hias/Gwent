@@ -27,9 +27,9 @@ The sum of the played cards strength decides which player wins the round itself.
 All rounds of a match must be played with the same starting hand. Mastering how to use your available cards sparingly is the key to victory.
 
 <p align="center">
-<img src="res/Gwent/Rules/Gwent%20Rules.png" width="275">
-<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%201.png" width="275">
-<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%202.png" width="275">
+<img src="res/Gwent/Rules/Gwent%20Rules.png" width="270">
+<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%201.png" width="270">
+<img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%202.png" width="270">
 </p>
 
 <p align="center"><img src="http://www.pcgamesn.com/sites/default/files/Gwent%20Board_1.jpg" ></p>
