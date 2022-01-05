@@ -32,8 +32,6 @@ All rounds of a match must be played with the same starting hand. Mastering how 
 <img src="res/Gwent/Rules/Nilfgaardian%20Empire%20Rules%202.png" width="270">
 </p>
 
-<p align="center"><img src="http://www.pcgamesn.com/sites/default/files/Gwent%20Board_1.jpg" ></p>
-
 [Example game](https://www.youtube.com/watch?v=5FZuQ3apfa0)
 
 ## Repository Features
